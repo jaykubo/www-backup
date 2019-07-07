@@ -1,5 +1,5 @@
 ---
-title: Dear Neverland, Forever My Heart
+title: Forever to Neverland
 permalink: /forever/
 layout: single
 author_profile: false
@@ -10,6 +10,7 @@ tags:
   - cancer
   - scorpio
   - three
+  - i<3u4∞
 ---
 <body>
     <div id="wrapper">
