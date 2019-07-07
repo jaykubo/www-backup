@@ -1,6 +1,19 @@
+---
+title: Dear Neverland, Forever My Heart
+permalink: /forever/
+layout: single
+author_profile: false
+sitemap: false
+comments: false
+tags:
+  - love
+  - cancer
+  - scorpio
+  - three
+---
 <head>
     <meta charset="utf-8">
-    <title>Dear Neverland, Forever Heart</title>
+    <title>Dear Neverland, Forever My Heart</title>
     <meta content="width=device-width, initial-scale=0.6" name="viewport">
     <style>
         body { color: #666; font-family: sans-serif; line-height: 1.4; }
