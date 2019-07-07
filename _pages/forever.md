@@ -41,7 +41,7 @@ tags:
     </style>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
-    <script src="./assets/audiojs/audio.min.js"></script>
+    <script src="https://raw.githubusercontent.com/jaykubo/www/master/assets/audiojs/audio.min.js"></script>
     <script>
         $(function() {
             // Setup the player to autoplay the next track
@@ -92,16 +92,16 @@ tags:
         <h1>3.6932...</h1>
         <audio preload></audio>
         <ol>
-            <li><a href="#" data-src="./assets/mp3/3.69/01.mp3">Officially Missing You</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/02.mp3">We Could Happen</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/03.mp3">Better Together</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/04.mp3">Perfect Duet</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/05.mp3">Unbelievers</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/06.mp3">All That Matters</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/07.mp3">Starving</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/08.mp3">Location Unknown</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/09.mp3">Not A Bad Thing</a></li>
-            <li><a href="#" data-src="./assets/mp3/3.69/10.mp3">I Want You</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/01.mp3">Officially Missing You</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/02.mp3">We Could Happen</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/03.mp3">Better Together</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/04.mp3">Perfect Duet</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/05.mp3">Unbelievers</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/06.mp3">All That Matters</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/07.mp3">Starving</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/08.mp3">Location Unknown</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/09.mp3">Not A Bad Thing</a></li>
+            <li><a href="#" data-src="https://raw.githubusercontent.com/jaykubo/www/master/assets/mp3/3.69/10.mp3">I Want You</a></li>
         </ol>
     </div>
     <div id="shortcuts">
