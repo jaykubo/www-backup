@@ -11,5 +11,5 @@ tags:
   - github
 ---
 <div class="github-widget" data-username="jkubo"
-  style="background-color:lightsteelblue; border-radius:3px;"></div>
+  style="background-color:beige; border-radius:3px;"></div>
 <script src="https://unpkg.com/github-card@1.2.1/dist/widget.js"></script>
