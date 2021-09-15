@@ -16,14 +16,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blog"
+title                    : "Jay Kubo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jay Kubo"
-description              : "A site documenting my life."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : "Documenting my life in tech, finance, travel"
+url                      : "https://jaykubo.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "jaykubo/www" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -94,7 +94,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jay E Kubo"
+  name             : # "JEK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "I am an **amazing** person."
   location         : "Austin, Texas"
@@ -106,25 +106,22 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://jaykubo.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+    - label: "AngelList"
+      icon: "fab fa-fw fa-angellist"
+      url: "https://angel.co/jaykubo"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jaykubo"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/jaykubo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/jaykubo"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      # url: "https://twitter.com/jay_kubo"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
@@ -139,7 +136,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://instagram.com/jaykubo"
 
 
 # Reading Files
